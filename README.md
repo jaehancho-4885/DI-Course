@@ -1,5 +1,4 @@
 # DI-Course
-<<<<<<< HEAD
 
 **AIFFEL 부트캠프 git 연습용 저장소**
 
@@ -13,5 +12,3 @@ git add .
 git commit -m "practice"
 git push
 ```
-=======
->>>>>>> 6d3296e72a383b6809ea9ff6bcdec09a9a4f134a
